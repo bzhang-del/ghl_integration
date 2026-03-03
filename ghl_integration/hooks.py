@@ -1,6 +1,6 @@
 app_name = "ghl_integration"
 app_title = "ghl_integration"
-app_publisher = "Bob Zhang"
+app_publisher = " Bob Zhang"
 app_description = "GHL Integration"
 app_email = "bzhang@getgrowth.consulting"
 app_license = "apache-2.0"
