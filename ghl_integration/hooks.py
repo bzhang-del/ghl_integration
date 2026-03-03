@@ -1,5 +1,5 @@
 app_name = "ghl_integration"
-app_title = "ghl_integration"
+app_title = "GHL Integration"
 app_publisher = " Bob Zhang"
 app_description = "GHL Integration"
 app_email = "bzhang@getgrowth.consulting"
