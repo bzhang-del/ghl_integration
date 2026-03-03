@@ -1,4 +1,4 @@
-app_name = "ghl_integration"
+app_name = "GoHighLevel"
 app_title = "GHL Integration"
 app_publisher = " Bob Zhang"
 app_description = "GHL Integration"
